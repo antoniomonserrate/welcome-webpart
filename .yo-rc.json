@@ -1,0 +1,17 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "solutionName": "welcome-webpart",
+    "solutionShortDescription": "Welcome WebPart for SharePoint Online",
+    "version": "1.20.0",
+    "libraryName": "welcome-webpart",
+    "libraryId": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+    "environment": "spo",
+    "packageManager": "npm",
+    "isCreatingSolution": true,
+    "componentType": "webpart",
+    "framework": "react",
+    "componentName": "Welcome",
+    "componentDescription": "Personalized welcome message web part",
+    "isDomainIsolated": false
+  }
+}
